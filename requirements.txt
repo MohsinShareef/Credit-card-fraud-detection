@@ -4,5 +4,4 @@ numpy==1.26.4
 scikit-learn
 matplotlib==3.10.0
 seaborn
-kaggle==1.7.4.5
 plotly
