@@ -4,4 +4,6 @@ numpy==1.26.4
 scikit-learn
 matplotlib==3.10.0
 seaborn
-plotly
+kaggle==1.7.4.5
+altair==5.5.0
+pydeck==0.9.1
